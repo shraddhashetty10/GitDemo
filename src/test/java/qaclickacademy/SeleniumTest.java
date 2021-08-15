@@ -22,6 +22,11 @@ public class SeleniumTest {
 	{
 	System.out.println("elementsUI");
 	}
+	
+	public void elementsUIf()
+	{
+	System.out.println("elementsUI");
+	}
 
 
 }
